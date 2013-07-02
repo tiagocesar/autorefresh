@@ -12,6 +12,6 @@ Usage
 
 Just save <b>autorefresh.js</b> to a folder of your project, then add it to your page:
 
-<script src="autorefresh.js"></script>
+&lt;script src="autorefresh.js"&gt;&lt;/script&gt;
 
 That is enough for it to start working.
